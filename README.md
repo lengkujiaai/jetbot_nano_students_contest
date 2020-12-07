@@ -40,6 +40,13 @@
 
 ![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/star_number.png)
 
+## 2.3 用游戏手柄协助采集图片
+我们先看看手柄的样子：
+![image]()
+
+连上手柄，执行完对应手柄的代码后会看到：
+![image}()
+
 ## 2.3 起一个自己的名字用来存放搜集的图片
 
 马上就要搜集图片了，可以把文件夹改成自己喜欢的名字用来存储采集的图片
