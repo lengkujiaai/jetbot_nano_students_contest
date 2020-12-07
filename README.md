@@ -25,6 +25,7 @@
 # 2、Data Collection 资料搜集
 ## 2.1 点击data_collection.ipynb打开文件，可以看到画面：
 
+![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/data_collection_0.png)
 
 我们先看一下比赛地图：
 ![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/contest_map.jpg)
