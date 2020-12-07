@@ -9,6 +9,7 @@
 
 
 把小车IP：8888输入笔记本的浏览器下（我用的浏览器是chrome，个别浏览器可能出问题），回车键，即可看到下面的画面，密码是jetbot
+![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/login.png)
 
 ## 1.1 查看路径跟随文件结构
 
