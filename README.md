@@ -20,6 +20,7 @@
 
 
 我们先看一下比赛地图：
+![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/contest_map.jpg)
 
 # 3、Train Model 训练模型
 
