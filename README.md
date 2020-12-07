@@ -16,11 +16,20 @@
 
 
 # 2、Data Collection 资料搜集
-点击data_collection.ipynb打开文件，可以看到画面：
+## 2.1 点击data_collection.ipynb打开文件，可以看到画面：
 
 
 我们先看一下比赛地图：
 ![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/contest_map.jpg)
+
+## 2.2 用import引入python的一些模块方便下面的代码使用，包括一些公用的和自己定义的
+
+选中代码行，同时按下Shift 和Enter键即可执行选中的代码，也可以在选中代码时，点击图中红框框出的三角形
+
+![image]()
+*号的意思是正在执行，*号变成数字后表示已经执行完成，见截图中红框部分。如果执行失败，中括号里面什么也没有，并且会在代码行下面报错
+
+## 2.3 起一个自己的名字用来存放搜集的图片
 
 # 3、Train Model 训练模型
 
