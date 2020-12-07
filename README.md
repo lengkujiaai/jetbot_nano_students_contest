@@ -42,9 +42,16 @@
 
 ## 2.3 起一个自己的名字用来存放搜集的图片
 
-可以改成自己喜欢的名字用来存储采集的图片
+马上就要搜集图片了，可以把文件夹改成自己喜欢的名字用来存储采集的图片
 
 ![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/image_folder.png)
+
+执行完这块代码，可以看到左侧出现了你命名的文件夹的名字
+
+![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/image_folder2.png)
+
+采集图片时，一般的用手挪动小车到一个新的位置，用鼠标拖动x、y的值来调整目标点（也就是绿点）的位置，按游戏手柄上对应的键保存图片。调整x、y的值见截图
+
 
 # 3、Train Model 训练模型
 
