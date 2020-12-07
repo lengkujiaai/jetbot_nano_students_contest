@@ -42,10 +42,10 @@
 
 ## 2.3 用游戏手柄协助采集图片
 我们先看看手柄的样子：
-![image]()
+![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/game_pad.png)
 
 连上手柄，执行完对应手柄的代码后会看到：
-![image}()
+![image}(https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/game_pad.png2)
 
 ## 2.3 起一个自己的名字用来存放搜集的图片
 
