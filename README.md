@@ -35,8 +35,10 @@
 选中代码行，同时按下Shift 和Enter键即可执行选中的代码，也可以在选中代码时，点击图中红框框出的三角形
 ![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/execute_code.png)
 
-![image]()
+
 *号的意思是正在执行，*号变成数字后表示已经执行完成，见截图中红框部分。如果执行失败，中括号里面什么也没有，并且会在代码行下面报错
+
+![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/star_number.png)
 
 ## 2.3 起一个自己的名字用来存放搜集的图片
 
