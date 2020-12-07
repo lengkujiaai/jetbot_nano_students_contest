@@ -52,7 +52,7 @@
 
 采集图片时，一般的用手挪动小车到一个新的位置，用鼠标拖动x、y的值来调整目标点（也就是绿点）的位置，按游戏手柄上对应的键保存图片。调整x、y的值见截图
 
-
+![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/point_x_y_green.png)
 # 3、Train Model 训练模型
 
 # 4、Live Demo 真实演示
