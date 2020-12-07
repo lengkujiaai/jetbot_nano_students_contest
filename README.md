@@ -42,6 +42,10 @@
 
 ## 2.3 起一个自己的名字用来存放搜集的图片
 
+可以改成自己喜欢的名字用来存储采集的图片
+
+![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/image_folder.png)
+
 # 3、Train Model 训练模型
 
 # 4、Live Demo 真实演示
