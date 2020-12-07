@@ -5,7 +5,8 @@
 
 # 1、连接JupyterLab
 
-先把jetbot小车和准备连接小车的笔记本连到同一个路由器下面
+先把jetbot小车和准备连接小车的笔记本连到同一个路由器下面,小车联网之后会在小车后面的oled屏幕上看到小车的ip
+![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/jetbot_ip.jpg)
 
 
 把小车IP：8888输入笔记本的浏览器下（我用的浏览器是chrome，个别浏览器可能出问题），回车键，即可看到下面的画面，密码是jetbot
