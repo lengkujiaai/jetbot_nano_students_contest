@@ -109,4 +109,8 @@
 
 ![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/resnet_18.png)
 
+## 3.8 将训练过程放到gpu上运行
+
+![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/gpu.png)
+
 # 4、Live Demo 真实演示
