@@ -11,6 +11,8 @@ https://7869-xiaoxue-3-6-ad8d09-1257746400.tcb.qcloud.la/huangsexian_304zhang_50
 识别动物的模型（33.3M）：
 https://7869-xiaoxue-3-6-ad8d09-1257746400.tcb.qcloud.la/ssd_mobilenet_v2_coco.engine?sign=fe9262c0a086a7d5e6d65605b9122c64&t=1607411160
 
+competition_note.ipynb是比赛的示例代码，小车寻路，遇到第一个需要识别的动物停止10秒，启动后继续寻路，再看到需要识别的第二个动物，小车停止
+
 # 1、连接JupyterLab
 
 先把jetbot小车和准备连接小车的笔记本连到同一个路由器下面,小车联网之后会在小车后面的oled屏幕上看到小车的ip
