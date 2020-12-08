@@ -93,4 +93,8 @@
 在执行之前要确保要解压缩的文件名在左侧是存在的，如果不存在，则需要修改左侧的文件名或者修改解压命令中压缩包的文件名。如果没有压缩包，需要上传后在修改。
 ![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/unzip.png)
 
+## 3.4 选择训练所用的数据集
+如果有多个数据集，训练时把目录改成自己要训练的数据集的文件夹名字
+![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/train_folder.png)
+
 # 4、Live Demo 真实演示
