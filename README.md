@@ -113,4 +113,39 @@
 
 ![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/gpu.png)
 
+## 3.9 修改保存模型的名字及训练回合的次数
+原始代码是训练50回合，我用的70.训练太多的回合数可能导致过拟合，也不好。如果训练效果不好，可以试着将NUM_EPOCHS的值改小一点
+
+保存模型的名字也可以改成自己想要的名字
+![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/model_name.png)
+
+训练完成后，你会在左侧看到自己保存的模型的名字。训练模型的时间会随着图片数目的多少而变化。150张图片35个回合大约15分钟。
+
+## 3.10 关闭文件和内核
+见上面2.6的图片。每次运行完ipynb文件，都要进行对应的关闭操作，x掉打开的文件，在左侧找到SHUTDOWN，单击所有的SHUTDOWN。
+
 # 4、Live Demo 真实演示
+这里就不一一截图解释了，后面我们会把做了注释的notebook文档上传到本github下面，方便用户使用
+
+
+
+# 另：
+
+1、2020-12-08，现供职于北京中电科卫星导航系统有限公司，本部门为研发中心。
+
+2、公司在淘宝销售nvidia jetson 系列的产品，包括jetson nano，     TX1,     TX2,    AGX XAVIER,        XAVIER NX产品
+
+3、我们属于提供技术支持的，本项目就是一老师要求的功能。
+
+4、复制链接：   
+
+    2.0fυィ直信息₰gyi7clU3sNj₤回t~bao或點几url链 https://m.tb.cn/h.4WAPC9j?sm=19844c 至浏览er【北京中电科卫星导航公司】
+    
+后打开淘宝即可
+
+# 技术支持：
+
+![image](https://github.com/lengkujiaai/Face-Recognition/blob/main/readmeImages/%E5%85%AC%E5%8F%B8%E4%BA%A7%E5%93%81.png)
+
+
+
