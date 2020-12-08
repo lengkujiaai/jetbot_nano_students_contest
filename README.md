@@ -78,7 +78,7 @@
 
 ## 2.6 关闭操作的文件和kernel
 执行完一个文件后，记得关闭视窗和kernel。先要点击x号关掉文件，再选铜钱图标，点击SHUT DOWN。要记得关掉所有的kernel，否则后面运行时可能报错。以后没执行完一个文件，都要这样操作。具体见截图：
-![image]()
+![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/shutdown.png)
 
 # 3、Train Model 训练模型
 
