@@ -88,4 +88,9 @@
 ## 3.2 引入用到的函数库
 ![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/train_model_import.png)
 
+## 3.3 将压缩文件解压
+如果在左侧能看到自己保存寻路图片的文件夹，可以不用执行这一步。如果是用的别人采集的图片，或者即便是自己采集的图片，但只有压缩的文件，就要执行这一步解压
+在执行之前要确保要解压缩的文件名在左侧是存在的，如果不存在，则需要修改左侧的文件名或者修改解压命令中压缩包的文件名。如果没有压缩包，需要上传后在修改。
+![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/unzip.png)
+
 # 4、Live Demo 真实演示
