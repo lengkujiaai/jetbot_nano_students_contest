@@ -101,4 +101,8 @@
 
 ![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/split_dataset.png)
 
+## 3.6 设置训练模型的细节
+
+![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/train_detail.png)
+
 # 4、Live Demo 真实演示
