@@ -86,6 +86,6 @@
 ![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/train_model.png)
 
 ## 3.2 引入用到的函数库
-
+![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/train_model_import.png)
 
 # 4、Live Demo 真实演示
