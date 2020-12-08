@@ -105,4 +105,8 @@
 
 ![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/train_detail.png)
 
+## 3.7 使用ResNet-18网络
+
+![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/resnet_18.png)
+
 # 4、Live Demo 真实演示
