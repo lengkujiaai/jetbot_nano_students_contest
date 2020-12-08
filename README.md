@@ -97,4 +97,8 @@
 如果有多个数据集，训练时把目录改成自己要训练的数据集的文件夹名字
 ![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/train_folder.png)
 
+## 3.5 将数据集分成训练集和验证集
+
+![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/split_dataset.png)
+
 # 4、Live Demo 真实演示
