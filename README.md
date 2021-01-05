@@ -8,6 +8,8 @@
 我训练好的寻路的模型（42.7M）：
 https://7869-xiaoxue-3-6-ad8d09-1257746400.tcb.qcloud.la/huangsexian_304zhang_50epoch.pth?sign=872acedad836d3225b8c929f9cf99057&t=1607411127
 
+训练寻路模型的图片在目录dataset_xy下面，可以在你自己的环境下面跑一遍train_model.ipynb体验一下训练的过程
+
 识别动物的模型（33.3M）：
 https://7869-xiaoxue-3-6-ad8d09-1257746400.tcb.qcloud.la/ssd_mobilenet_v2_coco.engine?sign=fe9262c0a086a7d5e6d65605b9122c64&t=1607411160
 
