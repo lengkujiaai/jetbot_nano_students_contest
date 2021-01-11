@@ -143,7 +143,7 @@ competition_note.ipynb是比赛的示例代码，小车寻路，遇到第一个�
 
 # 另：
 
-1、2020-12-08，现供职于北京中电科卫星导航系统有限公司，本部门为研发中心。
+1、2020-12-08，本部门为研发中心。
 
 2、公司在淘宝销售nvidia jetson 系列的产品，包括jetson nano，     TX1,     TX2,    AGX XAVIER,        XAVIER NX产品
 
