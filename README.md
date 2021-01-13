@@ -8,6 +8,10 @@
 
 https://mp.weixin.qq.com/s/CvALorNU1cl3jeuREtJliw
 
+视觉识别角逐赛比赛的发布：
+
+https://mp.weixin.qq.com/s/bHwSZP1lZVELOmHnOsXyKQ
+
 # 下载模型
 模型太大，github上不让放
 
