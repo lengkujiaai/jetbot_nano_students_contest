@@ -8,7 +8,10 @@
 
 https://mp.weixin.qq.com/s/CvALorNU1cl3jeuREtJliw
 
-视觉识别角逐赛比赛的发布：
+2020年海淀区中小学生“乐思创”-人工智能挑战赛：
+https://mp.weixin.qq.com/s/p00NWO3TexSONT5kLkiXfg
+
+海淀区“乐思创”人工智能挑战活动比赛秩序册：
 
 https://mp.weixin.qq.com/s/bHwSZP1lZVELOmHnOsXyKQ
 
