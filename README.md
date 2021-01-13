@@ -2,6 +2,12 @@
 
 # 作者：lengkujiaai@126.com
 
+我们是为北京市海淀区的视觉小车比赛做的一些辅助工作。
+
+视觉识别角逐赛的比赛规则：
+
+https://mp.weixin.qq.com/s/CvALorNU1cl3jeuREtJliw
+
 # 下载模型
 模型太大，github上不让放
 
