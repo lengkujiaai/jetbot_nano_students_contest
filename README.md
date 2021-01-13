@@ -152,7 +152,7 @@ competition_note.ipynb是比赛的示例代码，小车寻路，遇到第一个�
 
 # 技术支持：
 
-![image](https://github.com/lengkujiaai/Face-Recognition/blob/main/readmeImages/%E5%85%AC%E5%8F%B8%E4%BA%A7%E5%93%81.png)
+![image](https://github.com/lengkujiaai/jetbot_nano_students_contest/blob/main/image/zhangzong_weixin.png)
 
 
 
